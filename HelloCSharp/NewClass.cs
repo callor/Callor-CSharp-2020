@@ -1,11 +1,9 @@
 ﻿using System;
 namespace HelloCSharp
 {
-    public class Hello
+    public class NewClass
     {
-        public Hello()
-        {
-        }
+
 
         public int add(int num1, int num2)
         {
